@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "name": "clinica",
+  "version": "1.0.0",
+  "type": "module",
+
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelvinpc/clinicatarea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelvinpc/clinicatarea/issues"
+  },
+  "homepage": "https://github.com/Kelvinpc/clinicatarea#readme",
+  "description": ""
+}
